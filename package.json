@@ -1,0 +1,16 @@
+{
+  "name": "nosql-socialmedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.3",
+    "node": "^15.12.0",
+    "node.js": "^0.0.1-security"
+  }
+}
