@@ -23,7 +23,7 @@ Create users, add friends, add thoughts and reactions to interact with other soc
 ## Usage
 Enjoy your time on your devices with friends that could be located anywhere in the world!
 ## Screenshot
-[![Watch the video](https://media.giphy.com/media/y49hxVlYyLOAVpnlPG/giphy.gif)](https://youtu.be/JpdTZ8UcAZw)<br />
+[![Watch the video](https://media.giphy.com/media/4VJxtXUumAVeIfQOyn/giphy.gif)](https://youtu.be/JpdTZ8UcAZw)<br />
 Click on the GIF to redirect to HD video.
 
 
